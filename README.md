@@ -57,3 +57,5 @@ We answer key business questions such as:
 - Add **predictive analytics** to forecast sales and optimize inventory.
 
 ---
+
+![image](https://github.com/user-attachments/assets/beea8b56-de60-4cd5-9b82-19a3f07d76d0)
