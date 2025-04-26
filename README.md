@@ -1,13 +1,13 @@
-# Walmart-Retail-Dashboard
-
 🚀 Walmart Sales Dashboard | Advanced Excel Analytics Project
 
-Hello everyone! 👋
 
+
+Hello everyone! 👋
 I'm thrilled to introduce my latest project: Walmart Global Sales Dashboard, built entirely using Microsoft Excel.
 The project dives deep into sales performance, profitability, returns, and regional management insights — all brought together into a clean, interactive dashboard.
 
 📂 Project Overview
+
 This project replicates a real-world business scenario where multiple teams (sales, operations, finance) interact.
 The data spans multiple countries and product categories, and includes customer, order, return, and regional manager data.
 
