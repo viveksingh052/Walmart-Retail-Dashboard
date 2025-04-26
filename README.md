@@ -56,6 +56,12 @@ We answer key business questions such as:
 - Automate KPI calculation using **Python (Pandas)**.
 - Add **predictive analytics** to forecast sales and optimize inventory.
 
+
+
+https://github.com/user-attachments/assets/4e065b88-227d-4b66-90b8-039a3fdf6ee5
+
 ---
 
 ![image](https://github.com/user-attachments/assets/beea8b56-de60-4cd5-9b82-19a3f07d76d0)
+
+
